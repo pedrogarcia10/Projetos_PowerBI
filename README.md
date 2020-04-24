@@ -5,4 +5,4 @@ Projetos:
 - Gráficos dos resultados de um experimento científico sobre os tipos de vocalização da espécie Sturnella supercillaris
 - Visualização dos resultados gerais de treinos de times de e-Sports do game Garena Free Fire
 - Análise do desempenho do São Paulo F.C. em 2020 de forma individual e coletiva
-- 
+- Análise da performance de exercícios físicos feitos em um período de tempo
