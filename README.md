@@ -6,3 +6,5 @@ Projetos:
 - Visualização dos resultados gerais de treinos de times de e-Sports do game Garena Free Fire
 - Análise do desempenho do São Paulo F.C. em 2020 de forma individual e coletiva
 - Análise da performance de exercícios físicos feitos em um período de tempo
+
+Alguns projetos ainda não estão totalmente finalizados e serão atualizados com o tempo
